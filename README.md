@@ -1,6 +1,6 @@
 ### About
 
-- [ja](./Profile/ja.md)
+- [ja](https://github.com/yutailang0119/yutailang0119/blob/master/Profile/ja.md)
 
 <!--
 **yutailang0119/yutailang0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
