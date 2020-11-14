@@ -46,15 +46,17 @@
 | [builderscon 2019 tokyo](https://builderscon.io/tokyo/2019) | サポートスタッフ |  |
 | [try! Swift Tokyo 2020](https://www.tryswift.co/events/2020/tokyo/) | [Organizer](https://www.tryswift.co/events/2020/tokyo/en/#yutailang0119) | [COVID-19により中止](https://www.tryswift.co/events/2020/tokyo/jp/) |
 
-### 勉強会 / Meetup
-
-* [fastlane勉強会](https://fastlane.connpass.com)
-
 ### 執筆
-
 * [PyCon JP 2016 開催後レポート ～第3回 メディアチームのPyCon JP 2016](https://codezine.jp/article/detail/9852)
 * [WEB+DB PRESS Vol.101](http://gihyo.jp/magazine/wdpress/archive/2017/vol101) builderscon 2017 tokyo イベントレポート
-* [WEB+DB PRESS Vol.116](https://gihyo.jp/magazine/wdpress/archive/2020/vol116) はじめてのトラブルシューティング 第4章：モバイルアプリ
+* [WEB+DB PRESS Vol.116](https://gihyo.jp/magazine/wdpress/archive/2020/vol116) 特集1 はじめてのトラブルシューティング 第4章：モバイルアプリ
+
+### 受賞歴
+* [SPAJAM 2020](https://spajam.jp/2020/) 最優秀賞 チーム「おひっこし」
+    * [第2回予選大会](https://spajam.jp/competition-result2) 優秀賞「イマージ」
+        * [SPAJAM 2020 第2回予選大会に「おひっこし」として参加して、優秀賞に選ばれました #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-qualifying)
+    * [本選](https://spajam.jp/final-result) 最優秀賞「ぽすすめ」
+        * [SPAJAM 2020 本選大会に「おひっこし」として参加して、最優秀賞に選ばれました！！！ #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-final)
 
 ## 資格
 
