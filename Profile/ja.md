@@ -15,28 +15,6 @@
 * Qiita: [yutailang0119](https://qiita.com/yutailang0119)
 * Speaker Deck: [yutailang0119](https://speakerdeck.com/yutailang0119)
 
-## 基本情報
-
-* 生年月日: 1993年1月19日
-* プログラミング
-    * iOS
-        * Swift
-        * Objective-C
-    * Android
-        * Kotlin
-        * Java
-    * サーバーサイド
-        * Go
-    * ツール
-        * Swift
-        * TypeScript
-        * Go
-        * Ruby
-* 趣味
-    * ダーツ
-    * カンファレンス / 勉強会参加
-    * カンファレンススタッフ
-
 ## 略歴
 
 | 年月 | |
