@@ -6,12 +6,12 @@
 
 ## アカウント
 
-* メールアドレス: yutailang0119@gmail.com
+* Email: yutailang0119@gmail.com
 * Twitter: [@yutailang0119](https://twitter.com/yutailang0119)
 * GitHub: [yutailang0119](https://github.com/yutailang0119)
 * Facebook: [muta.yutaro](https://facebook.com/muta.yutaro)
 * LinkedIn: [yutailang0119](https://www.linkedin.com/in/yutailang0119)
-* ブログ: [yutailang0119.hatenablog.com](http://yutailang0119.hatenablog.com)
+* Blog: [yutailang0119.hatenablog.com](http://yutailang0119.hatenablog.com)
 * Qiita: [yutailang0119](https://qiita.com/yutailang0119)
 * Speaker Deck: [yutailang0119](https://speakerdeck.com/yutailang0119)
 
@@ -47,12 +47,14 @@
 | [try! Swift Tokyo 2020](https://www.tryswift.co/events/2020/tokyo/) | [Organizer](https://www.tryswift.co/events/2020/tokyo/en/#yutailang0119) | [COVID-19により中止](https://www.tryswift.co/events/2020/tokyo/jp/) |
 
 ### 執筆
+
 * [PyCon JP 2016 開催後レポート ～第3回 メディアチームのPyCon JP 2016](https://codezine.jp/article/detail/9852)
 * [WEB+DB PRESS Vol.101](http://gihyo.jp/magazine/wdpress/archive/2017/vol101) builderscon 2017 tokyo イベントレポート
 * [WEB+DB PRESS Vol.116](https://gihyo.jp/magazine/wdpress/archive/2020/vol116) 特集1 はじめてのトラブルシューティング 第4章：モバイルアプリ
 * [Offers Magazine コミュニティから繋がる、iOSアプリエンジニアの副業とキャリアの築き方](https://offers.jp/media/sidejob/workstyle/a_1855)
 
 ### 受賞歴
+
 * [SPAJAM 2020](https://spajam.jp/2020/) 最優秀賞 チーム「おひっこし」
     * [第2回予選大会](https://spajam.jp/competition-result2) 優秀賞「イマージ」
         * [SPAJAM 2020 第2回予選大会に「おひっこし」として参加して、優秀賞に選ばれました #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-qualifying)
