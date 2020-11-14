@@ -50,6 +50,7 @@
 * [PyCon JP 2016 開催後レポート ～第3回 メディアチームのPyCon JP 2016](https://codezine.jp/article/detail/9852)
 * [WEB+DB PRESS Vol.101](http://gihyo.jp/magazine/wdpress/archive/2017/vol101) builderscon 2017 tokyo イベントレポート
 * [WEB+DB PRESS Vol.116](https://gihyo.jp/magazine/wdpress/archive/2020/vol116) 特集1 はじめてのトラブルシューティング 第4章：モバイルアプリ
+* [Offers Magazine コミュニティから繋がる、iOSアプリエンジニアの副業とキャリアの築き方](https://offers.jp/media/sidejob/workstyle/a_1855)
 
 ### 受賞歴
 * [SPAJAM 2020](https://spajam.jp/2020/) 最優秀賞 チーム「おひっこし」
