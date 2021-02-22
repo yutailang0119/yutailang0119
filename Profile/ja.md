@@ -52,6 +52,10 @@
 * [WEB+DB PRESS Vol.101](http://gihyo.jp/magazine/wdpress/archive/2017/vol101) builderscon 2017 tokyo イベントレポート
 * [WEB+DB PRESS Vol.116](https://gihyo.jp/magazine/wdpress/archive/2020/vol116) 特集1 はじめてのトラブルシューティング 第4章：モバイルアプリ
 * [Offers Magazine コミュニティから繋がる、iOSアプリエンジニアの副業とキャリアの築き方](https://offers.jp/media/sidejob/workstyle/a_1855)
+* [WEB+DB PRESS Vol.121](https://gihyo.jp/magazine/wdpress/archive/2021/vol121)
+    * 特集2 UIKit，SwiftUI，iPadOS，ウィジェット iOS 14最前線
+        * 第2章：UIKitによるアプリ開発 進化したPicker，Menu，CollectionViewを使う
+        * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
 
 ### 受賞歴
 
