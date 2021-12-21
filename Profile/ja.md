@@ -45,6 +45,7 @@
 | [try! Swift Tokyo 2019](https://www.tryswift.co/events/2019/tokyo/) | [Organizer](https://www.tryswift.co/events/2019/tokyo/en/#yutailang0119) |  |
 | [builderscon 2019 tokyo](https://builderscon.io/tokyo/2019) | サポートスタッフ |  |
 | [try! Swift Tokyo 2020](https://www.tryswift.co/events/2020/tokyo/) | [Organizer](https://www.tryswift.co/events/2020/tokyo/en/#yutailang0119) | [COVID-19により中止](https://www.tryswift.co/events/2020/tokyo/jp/) |
+| [SPAJAM 2021](https://www.spajam.jp) | 運営スタッフ |  |
 
 ### 執筆
 
