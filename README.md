@@ -1,9 +1,6 @@
 ## Overview
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yutailang0119&count_private=true&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=yutailang0119&count_private=true&theme=prussian&layout=compact)
-
-
 
 ## more
 
