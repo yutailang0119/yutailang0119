@@ -4,11 +4,15 @@
 
 ## more
 
-- Profile
-  - [ja](https://github.com/yutailang0119/yutailang0119/blob/main/ja/Profile.md)
+- <details><summary>Profile</summary>
+   <ul>
+     <li><a href="https://github.com/yutailang0119/yutailang0119/blob/main/ja/Profile.md">ja</a></li>
+   </ul>
+ </details>
 
-- Release Apps
-    - <a href="https://github.com/yutailang0119/PixelaUI-App/wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yutailang0119&repo=PixelaUI-App&theme=prussian"></a>
+- <details><summary>Release Apps</summary>
+    <a href="https://github.com/yutailang0119/PixelaUI-App/wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yutailang0119&repo=PixelaUI-App&theme=prussian"></a>
+  </details>
 
 
 
