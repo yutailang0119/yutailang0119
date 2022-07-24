@@ -2,7 +2,7 @@
 
 | Face | SNS |
 |---|---|
-| <img src="./resources/face_icon.png" alt="face" title="Face" width="150" height="150"> | <img src="./resources/sns_icon.png" alt="sns" title="SNS" width="150" height="150"> |
+| <img src="../resources/face_icon.png" alt="face" title="Face" width="150" height="150"> | <img src="../resources/sns_icon.png" alt="sns" title="SNS" width="150" height="150"> |
 
 ## アカウント
 

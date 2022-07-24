@@ -5,7 +5,7 @@
 ## more
 
 - Profile
-  - [ja](https://github.com/yutailang0119/yutailang0119/blob/master/Profile/ja.md)
+  - [ja](https://github.com/yutailang0119/yutailang0119/blob/main/ja/Profile.md)
 
 - Release Apps
     - <a href="https://github.com/yutailang0119/PixelaUI-App/wiki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yutailang0119&repo=PixelaUI-App&theme=prussian"></a>
