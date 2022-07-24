@@ -2,13 +2,16 @@
 
 <img src="../resources/sns_icon.png" alt="sns" title="SNS" width="150" height="150">
 
-## アカウント
+## コンタクト
 
 * Email: yutailang0119@gmail.com
 * Twitter: [@yutailang0119](https://twitter.com/yutailang0119)
 * GitHub: [yutailang0119](https://github.com/yutailang0119)
 * Facebook: [muta.yutaro](https://facebook.com/muta.yutaro)
 * LinkedIn: [yutailang0119](https://www.linkedin.com/in/yutailang0119)
+
+## 他アカウント
+
 * Blog: [yutailang0119.hatenablog.com](http://yutailang0119.hatenablog.com)
 * Qiita: [yutailang0119](https://qiita.com/yutailang0119)
 * Speaker Deck: [yutailang0119](https://speakerdeck.com/yutailang0119)
