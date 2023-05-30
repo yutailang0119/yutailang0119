@@ -62,6 +62,10 @@
     * 特集2 UIKit，SwiftUI，iPadOS，ウィジェット iOS 14最前線
         * 第2章：UIKitによるアプリ開発 進化したPicker，Menu，CollectionViewを使う
         * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
+* [WEB+DB PRESS Vol.132](https://gihyo.jp/magazine/wdpress/archive/2023/vol132)
+    * 特集2 Swift 5.7，Regex，SwiftUI，Charts iOS 16最前線
+        * 第2章：UIKitによるアプリ開発 進化したPicker，Menu，CollectionViewを使う
+        * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
 
 ### 受賞歴
 
