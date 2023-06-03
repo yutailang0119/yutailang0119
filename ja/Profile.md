@@ -13,8 +13,8 @@
 ## アウトプット
 
 * Blog: [yutailang0119.hatenablog.com](http://yutailang0119.hatenablog.com)
-* Qiita: [yutailang0119](https://qiita.com/yutailang0119)
 * Speaker Deck: [yutailang0119](https://speakerdeck.com/yutailang0119)
+* Qiita: [yutailang0119](https://qiita.com/yutailang0119)
 
 ## 略歴
 
