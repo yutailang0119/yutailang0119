@@ -10,7 +10,7 @@
 * Facebook: [muta.yutaro](https://facebook.com/muta.yutaro)
 * LinkedIn: [yutailang0119](https://www.linkedin.com/in/yutailang0119)
 
-## 他アカウント
+## アウトプット
 
 * Blog: [yutailang0119.hatenablog.com](http://yutailang0119.hatenablog.com)
 * Qiita: [yutailang0119](https://qiita.com/yutailang0119)
