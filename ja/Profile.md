@@ -48,6 +48,7 @@
 | [try! Swift Tokyo 2020](https://www.tryswift.co/events/2020/tokyo/) | [Organizer](https://www.tryswift.co/events/2020/tokyo/en/#yutailang0119) | [COVID-19により中止](https://www.tryswift.co/events/2020/tokyo/jp/) |
 | [SPAJAM 2021](https://history.spajam.jp/2021/) | 運営スタッフ |  |
 | [SPAJAM 2022](https://www.spajam.jp) | 運営スタッフ |  |
+| [try! Swift Tokyo 2024](https://tryswift.jp/2024/) | Organizer |  |
 
 ### 執筆
 
