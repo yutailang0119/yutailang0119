@@ -49,7 +49,7 @@
 | [SPAJAM 2021](https://history.spajam.jp/2021/) | 運営スタッフ |  |
 | [SPAJAM 2022](https://history.spajam.jp/2022/) | 運営スタッフ、審査員 |  |
 | [SPAJAM 2023](https://www.spajam.jp/2023) | 運営スタッフ、審査員 |  |
-| [try! Swift Tokyo 2024](https://tryswift.jp/2024/) | Organizer |  |
+| [try! Swift Tokyo 2024](https://tryswift.jp/2024/) | [Organizer](https://tryswift.jp/#organizer) |  |
 
 ### 執筆
 
