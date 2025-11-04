@@ -60,27 +60,27 @@
 
 * [PyCon JP 2016 開催後レポート ～第3回 メディアチームのPyCon JP 2016](https://codezine.jp/article/detail/9852)
 * [WEB+DB PRESS Vol.101](http://gihyo.jp/magazine/wdpress/archive/2017/vol101)
-    * builderscon 2017 tokyo イベントレポート
+  * builderscon 2017 tokyo イベントレポート
 * [WEB+DB PRESS Vol.116](https://gihyo.jp/magazine/wdpress/archive/2020/vol116)
-    * 特集1 はじめてのトラブルシューティング
-        * 第4章：モバイルアプリ リリース作業，クラッシュエラー対応，起動の高速化
+  * 特集1 はじめてのトラブルシューティング
+    * 第4章：モバイルアプリ リリース作業，クラッシュエラー対応，起動の高速化
 * [Offers Magazine コミュニティから繋がる、iOSアプリエンジニアの副業とキャリアの築き方](https://offers.jp/media/sidejob/workstyle/a_1855)
 * [WEB+DB PRESS Vol.121](https://gihyo.jp/magazine/wdpress/archive/2021/vol121)
-    * 特集2 UIKit，SwiftUI，iPadOS，ウィジェット iOS 14最前線
-        * 第2章：UIKitによるアプリ開発 進化したPicker，Menu，CollectionViewを使う
-        * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
+  * 特集2 UIKit，SwiftUI，iPadOS，ウィジェット iOS 14最前線
+    * 第2章：UIKitによるアプリ開発 進化したPicker，Menu，CollectionViewを使う
+    * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
 * [WEB+DB PRESS Vol.132](https://gihyo.jp/magazine/wdpress/archive/2023/vol132)
-    * 特集2 Swift 5.7，Regex，SwiftUI，Charts iOS 16最前線
-        * 第2章：Swift 5.6/5.7のアップデート プロトコルのany/some、正規表現、Swift Package plugins
-        * 第4章：新登場！ Swift Chartsフレームワーク 美しく多彩なチャートの表示
+  * 特集2 Swift 5.7，Regex，SwiftUI，Charts iOS 16最前線
+    * 第2章：Swift 5.6/5.7のアップデート プロトコルのany/some、正規表現、Swift Package plugins
+    * 第4章：新登場！ Swift Chartsフレームワーク 美しく多彩なチャートの表示
 
 ### 受賞歴
 
 * [SPAJAM 2020](https://spajam.jp/2020/) 最優秀賞 チーム「おひっこし」
-    * [第2回予選大会](https://spajam.jp/competition-result2) 優秀賞「イマージ」
-        * [SPAJAM 2020 第2回予選大会に「おひっこし」として参加して、優秀賞に選ばれました #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-qualifying)
-    * [本選](https://spajam.jp/final-result) 最優秀賞「ぽすすめ」
-        * [SPAJAM 2020 本選大会に「おひっこし」として参加して、最優秀賞に選ばれました！！！ #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-final)
+  * [第2回予選大会](https://spajam.jp/competition-result2) 優秀賞「イマージ」
+     * [SPAJAM 2020 第2回予選大会に「おひっこし」として参加して、優秀賞に選ばれました #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-qualifying)
+  * [本選](https://spajam.jp/final-result) 最優秀賞「ぽすすめ」
+    * [SPAJAM 2020 本選大会に「おひっこし」として参加して、最優秀賞に選ばれました！！！ #SPAJAM](https://yutailang0119.hatenablog.com/entry/spajam-2020-final)
 
 ## 資格
 
