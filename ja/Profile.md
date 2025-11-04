@@ -41,15 +41,20 @@
 | [builderscon 2017 tokyo](https://builderscon.io/tokyo/2017) | コアスタッフ | [ブログを書くまでがbuilderscon 2017 tokyoです #builderscon](http://yutailang0119.hatenablog.com/entry/builderscon-2017-tokyo) |
 | [PyCon JP 2017](https://pycon.jp/2017/en/) | [コアスタッフ](https://pycon.jp/2017/en/about/staff-list/) | [ブログを書くまでがPyCon JP 2017です #pyconjp](http://yutailang0119.hatenablog.com/entry/pycon-jp-2017) |
 | [iOSDC JAPAN 2017](https://iosdc.jp/2017/) | スタッフ | [ブログを書くまでがiOSDC JAPAN 2017です！ #iosdc](http://yutailang0119.hatenablog.com/entry/iosdc-japan-2017) |
+| [try! Swift Tokyo 2018](https://www.tryswift.co/events/2018/tokyo/en/) | スタッフ |  |
 | [builderscon 2018 tokyo](https://builderscon.io/tokyo/2018) | コアスタッフ | [builderscon tokyo 2018のスタッフ & LT登壇しました #builderscon](https://yutailang0119.hatenablog.com/entry/builderscon-tokyo-2018) |
 | [Y8 in 城](https://y8-20180929-shiro.hachiojipm.org) | 当日ボランティア | [Y8 in 城でDepthカメラの話をしました #shiro929](https://yutailang0119.hatenablog.com/entry/y8-in-castle) |
-| [try! Swift Tokyo 2019](https://www.tryswift.co/events/2019/tokyo/) | [Organizer](https://www.tryswift.co/events/2019/tokyo/en/#yutailang0119) |  |
+| [try! Swift Tokyo 2019](https://www.tryswift.co/events/2019/tokyo/en/) | [Organizer](https://www.tryswift.co/events/2019/tokyo/en/#yutailang0119) |  |
 | [builderscon 2019 tokyo](https://builderscon.io/tokyo/2019) | サポートスタッフ |  |
-| [try! Swift Tokyo 2020](https://www.tryswift.co/events/2020/tokyo/) | [Organizer](https://www.tryswift.co/events/2020/tokyo/en/#yutailang0119) | [COVID-19により中止](https://www.tryswift.co/events/2020/tokyo/jp/) |
+| [try! Swift Tokyo 2020](https://www.tryswift.co/events/2020/tokyo/en/) | [Organizer](https://www.tryswift.co/events/2020/tokyo/en/#yutailang0119) | [COVID-19により中止](https://www.tryswift.co/events/2020/tokyo/jp/) |
 | [SPAJAM 2021](https://history.spajam.jp/2021/) | 運営スタッフ |  |
 | [SPAJAM 2022](https://history.spajam.jp/2022/) | 運営スタッフ、審査員 |  |
+| [try! Swift Tokyo meetup (2023)](https://tryswift.jp/2023/) | Organizer |  |
 | [SPAJAM 2023](https://www.spajam.jp/2023) | 運営スタッフ、審査員 |  |
-| [try! Swift Tokyo 2024](https://tryswift.jp/2024/) | [Organizer](https://tryswift.jp/#organizer) |  |
+| [try! Swift Tokyo 2024](https://tryswift.jp/2024/) | Organizer |  |
+| [builderscon 2024](https://fortee.jp/builderscon-2024) | コアスタッフ |  |
+| [try! Swift Tokyo 2025](https://tryswift.jp/2025/) | Organizer |  |
+| [builderscon 2025](https://fortee.jp/builderscon-tokyo-2025) | コアスタッフ | [中止](https://blog.builderscon.io/entry/builderscon-2025-cancel) |
 
 ### 執筆
 
