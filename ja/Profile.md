@@ -71,8 +71,8 @@
         * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
 * [WEB+DB PRESS Vol.132](https://gihyo.jp/magazine/wdpress/archive/2023/vol132)
     * 特集2 Swift 5.7，Regex，SwiftUI，Charts iOS 16最前線
-        * 第2章：UIKitによるアプリ開発 進化したPicker，Menu，CollectionViewを使う
-        * 第5章：ウィジェットの開発 アプリ内のコンテンツをホーム画面で提供する
+        * 第2章：Swift 5.6/5.7のアップデート プロトコルのany/some、正規表現、Swift Package plugins
+        * 第4章：新登場！ Swift Chartsフレームワーク 美しく多彩なチャートの表示
 
 ### 受賞歴
 
