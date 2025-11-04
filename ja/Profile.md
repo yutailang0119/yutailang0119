@@ -5,7 +5,7 @@
 ## コンタクト
 
 * Email: yutailang0119@gmail.com
-* Twitter: [@yutailang0119](https://twitter.com/yutailang0119)
+* X: [@yutailang0119](https://twitter.com/yutailang0119)
 * GitHub: [yutailang0119](https://github.com/yutailang0119)
 * Facebook: [muta.yutaro](https://facebook.com/muta.yutaro)
 * LinkedIn: [yutailang0119](https://www.linkedin.com/in/yutailang0119)
